@@ -9,7 +9,7 @@
         "@axe-core/playwright": "^4.10.1",
         "@playwright/test": "^1.52.0",
         "axe-html-reporter": "^2.2.11",
-        "fast-xml-parser": "^5.2.5"
+        "fast-xml-parser": "^5.3.4"
     },
     "files": [
         "LICENSE",
